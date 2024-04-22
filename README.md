@@ -1,13 +1,3 @@
---------------------------------------------- ~Put In StarterCharchterScripts~
---           --//AniteCheatV1\\--        //||
---                  \_____               //||
---         _________/                    //||
---        /         \____________        //||
---       |  credits To BlazingCore\       //||
---        \_________/____________/       //||
---                  \_____               //||
---             _____/                    //||
---------------------------------------------- ~#BlazigCore On Discord~
 Make Sure To Remove Credits--
 
 How  Fly Works. it check for material that player standing on If Materail is Air Player Get Kicked -- You can make it ban
